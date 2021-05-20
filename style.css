@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main_header{
+    border-bottom: 2px solid rgb(12, 11, 11);
+}
+
+header{
+    width: 90%;
+    margin-left: 5%;
+    overflow: hidden;
+    padding: 20px 0;
+}
+
+.logo{
+    width: 20%;
+    float: left;
+  
+}
+ img{
+width: 30%;
+}
+nav{
+    width: 40%;
+
+float: right;
+}
+nav ul{
+    list-style: none;
+}
+nav ul li{
+    float: left;
+    margin-left: 35px;
+    font-size: 20px;
+    text-transform: capitalize;
+}
+.content_section{
+    width: 60%;
+    margin-left: 20%;
+    text-align: center;
+
+}
+h1{
+text-align: center;
+font-size: 40px;
+margin: 10px;
+
+
+}
+h2{
+text-align: center;
+font-size: 30px;
+color: rgb(11, 217, 224);
+margin: 20px;
+
+}
+p{
+font-size: 20px;
+margin: 20px;
+text-transform: capitalize;
+
+}
+img{
+width: 50%;
+margin-top: 20px;
+}
+
